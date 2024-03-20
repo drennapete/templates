@@ -7,10 +7,8 @@ We fix {{TODAYS DATE PLUS 1 MONTH}} as the day on or before which the creditors 
 
 Dated this {{TODAYS DATE}}
 
-Adam Botterill and Damien Grant, Joint liquidators.
+{{LIQUIDATORS NAMES}}, Joint liquidators.
 
 Please direct any enquiries to {{CONTACT PERSON}} at {{CONTACT EMAIL}}.
 
-Address for liquidator: Waterstone Insolvency, PO Box 352, Auckland 1140.
-P: 0800CLOSED
-www.waterstone.co.nz
+{{ADDRESS DETAILS OF LIQUIDATORS}}
